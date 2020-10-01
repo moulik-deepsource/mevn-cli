@@ -60,7 +60,7 @@
     "commander": "^2.20.3",
     "didyoumean": "^1.2.1",
     "envinfo": "^7.7.2",
-    "execa": "^1.0.0",
+    "execa": "^4.0.3",
     "inquirer": "^6.5.2",
     "node-banner": "^1.4.0",
     "opencollective-postinstall": "^2.0.3",
